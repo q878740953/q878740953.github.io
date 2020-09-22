@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>此昵称不存在的博客</title>
-  
+  <title>此昵称不存在</title>
+  <icon>https://www.gravatar.com/avatar/cb077a6326fefb8b079a516f7a0956a5</icon>
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>此昵称不存在</name>
+    <email>878740953@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
